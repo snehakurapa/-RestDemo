@@ -6,7 +6,7 @@ import jakarta.ws.rs.Produces;
 import jakarta.ws.rs.core.MediaType;
 
 /**
- * Root resource (exposed at "myresources...................." )
+ * Root resource (exposed at "myresources.............jjjjjj......." )
  */
 @Path("myresource")
 public class MyResource {
